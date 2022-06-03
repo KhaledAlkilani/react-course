@@ -1,0 +1,36 @@
+/* {
+    color: "red",
+    fontSize: "50px",
+    backgroundColor: "yellow" 
+} */
+
+/* h1 {
+  color: red;
+  font-size: 50px;
+  background-color: lightblue;
+} */
+
+/* #root {
+  background-color: pink;
+} */
+
+.container {
+  margin-top: 20px;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  padding-left: 10px;
+}
+
+input[type="checkbox"] {
+  margin-left: 10px;
+}
+
+img {
+  height: 20rem;
+  max-width: 100%;
+}
